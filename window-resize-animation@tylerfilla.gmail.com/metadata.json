@@ -1,6 +1,6 @@
 {
     "uuid": "window-resize-animation@tylerfilla.gmail.com",
     "name": "Window Resize Animation",
-    "description": "Simple animation to make resizing smoother",
-    "shell-version": ["3.20"]
+    "description": "Snappy window resize animations for GNOME Shell; nothing more, nothing less",
+    "shell-version": ["3.20", "3.22"]
 }
