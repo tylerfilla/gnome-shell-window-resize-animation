@@ -1,0 +1,6 @@
+{
+    "uuid": "window-resize-animation@tylerfilla.gmail.com",
+    "name": "Window Resize Animation",
+    "description": "Simple animation to make resizing smoother",
+    "shell-version": ["3.20"]
+}
